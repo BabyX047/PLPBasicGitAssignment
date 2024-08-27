@@ -1,7 +1,7 @@
 1. GitHub Repository Creation:
 - Log in to your GitHub account.
 - Create a new repository on GitHub
-- Initialize it with a README file.(optional)
+- Initialize it with a README file. (optional)
 
 2. Local Folder Setup:
  - Create a new folder on your local machine
